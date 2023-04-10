@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "171493864730",
+    "project_id": "xpro-editor-5704f",
+    "storage_bucket": "xpro-editor-5704f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171493864730:android:9155713bd28ee7da0e68a3",
+        "android_client_info": {
+          "package_name": "com.major.videoeditorapp.video_editor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171493864730-4uu187mllf3j96o1jro0dsb222cdn2mq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.major.videoeditorapp.video_editor",
+            "certificate_hash": "3eccf20d555e2cdf0a5ba98f1e737736ee2e4fa7"
+          }
+        },
+        {
+          "client_id": "171493864730-vr8hhs712mbtimvaqmgu2roqeumagqr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgXE7iZTn8ysKO9AUHepI02kZT2c7eiM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171493864730-vr8hhs712mbtimvaqmgu2roqeumagqr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
